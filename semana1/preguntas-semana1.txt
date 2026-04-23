@@ -1,0 +1,8 @@
+Pregunta 1:
+Respuesta: B
+
+Pregunta 2:
+Respuesta: C
+
+Pregunta 3:
+Respuesta: B
