@@ -1,0 +1,14 @@
+Repositorio:
+Es una carpeta donde se guarda un proyecto en Git.
+Ahí se almacenan todos los archivos y también el historial de cambios.
+Sirve para tener organizado el trabajo y poder volver a versiones anteriores si se necesita.
+
+Commit:
+Es un comando que guarda los cambios que hago en el proyecto.
+Cada commit es como un punto de guardado del trabajo.
+Sirve para no perder lo que he ido modificando.
+
+Push:
+Es un comando que envía los cambios desde mi computador a GitHub.
+Sirve para subir el trabajo y que quede guardado en la nube.
+Así otros pueden ver lo que hice o queda como respaldo.
