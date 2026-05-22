@@ -1,0 +1,10 @@
+Nota: la actividad la realice en codespaces en el puerto principal este: 
+
+https://congenial-system-gxq45vwq549xfw566-3000.app.github.dev/
+Aquí el servidor solo me muestra que está funcionando con el mensaje “Servidor activo”.
+
+https://congenial-system-gxq45vwq549xfw566-3000.app.github.dev/saludo
+Me aparece un mensaje de bienvenida que dice “Hola comunidad”.
+
+https://congenial-system-gxq45vwq549xfw566-3000.app.github.dev/mensaje/juan
+Aquí el servidor usa el nombre que pongo en la ruta y me responde con un saludo personalizado.
