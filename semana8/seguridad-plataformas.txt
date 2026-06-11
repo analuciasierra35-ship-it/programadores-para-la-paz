@@ -1,0 +1,5 @@
+1. No exponer datos personales.
+2. Usar contraseñas fuertes y únicas.
+3. Activar verificación en dos pasos.
+4. Limitar accesos a información sensible.
+5. Usar conexiones seguras (HTTPS).
