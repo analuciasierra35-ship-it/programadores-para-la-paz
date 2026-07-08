@@ -1,0 +1,11 @@
+Evento:
+Se registra un nuevo reporte en el sistema.
+
+Acción:
+n8n envía un mensaje automáticamente a Telegram.
+
+Mensaje:
+Nuevo reporte recibido. Revisar el sistema para darle seguimiento.
+
+Información que no debe enviarse:
+Nombres completos, números de documento, teléfonos, direcciones, contraseñas ni información sensible.
