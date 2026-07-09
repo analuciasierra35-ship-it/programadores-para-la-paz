@@ -1,0 +1,6 @@
+La plataforma tendría una página principal donde se mostrarían las causas o reportes creados por la comunidad. 
+
+En la parte superior habría un formulario para registrar una nueva causa con información como el título, 
+la descripción y la fecha. Cada publicación tendría un botón para brindar apoyo y un contador que indique 
+cuántas personas la respaldan. También existiría un menú para navegar entre las diferentes secciones y la información personal 
+de los usuarios permanecería protegida para garantizar su privacidad.
