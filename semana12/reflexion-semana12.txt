@@ -1,0 +1,12 @@
+¿Qué aprendiste durante el curso sobre el uso de la tecnología 
+para fortalecer la participación ciudadana y la organización comunitaria?
+
+Durante este curso aprendí que la tecnología puede ayudar a mejorar la participación 
+ciudadana y fortalecer la organización comunitaria. También comprendí la importancia 
+de desarrollar aplicaciones sencillas que permitan registrar información de forma segura. 
+
+Aprendí cómo funcionan las bases de datos, el backend y la automatización para facilitar procesos. 
+Además, entendí que proteger los datos personales es fundamental en cualquier sistema. 
+El uso de GitHub, Node.js y n8n me permitió conocer nuevas formas de crear soluciones tecnológicas. 
+Considero que estos conocimientos serán útiles para futuros proyectos y para aportar al 
+desarrollo de mi comunidad mediante el uso responsable de la tecnología.

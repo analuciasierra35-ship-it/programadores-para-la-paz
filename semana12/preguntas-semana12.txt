@@ -1,0 +1,11 @@
+Pregunta 1:
+Respuesta: B Una herramienta simple para que una comunidad registre apoyos a una causa y genere una petición formal.
+
+Pregunta 2:
+Respuesta: B Convertir información registrada en un documento formal que pueda ser compartido o presentado.
+
+Pregunta 3:
+Respuesta: A Para evitar almacenar información innecesaria o sensible.
+
+Pregunta 4:
+Respuesta: A Enviar notificaciones automáticas cuando ocurre un evento en el sistema.
